@@ -7,3 +7,12 @@ c:\users\vasily\documents\visual studio 2010\Projects\WindowsApplication3\Window
 c:\users\vasily\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
 c:\users\vasily\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
 c:\users\vasily\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\ben\Desktop\WordPad\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
