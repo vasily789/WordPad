@@ -25,14 +25,18 @@
                 RichTextBox1.SelectionBackColor = Color.Yellow
 
                 'Update the Search Start Position
-                searchStartPosition += foundTextPosition + 1
+                If foundTextPosition > -1 Then
+                    searchStartPosition = foundTextPosition + 1
+                Else
+                    searchStartPosition = RichTextBox1.TextLength
+                End If
 
                 ' Determine whether the text was found in richTextBox1.
                 If foundTextPosition = 0 Then
+                    searchStartPosition += 1
+
                     ' Return the index to the specified search text.
                     returnValue = foundTextPosition
-                Else
-                    searchStartPosition += RichTextBox1.TextLength
                 End If
 
             End While
