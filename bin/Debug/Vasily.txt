@@ -1,0 +1,17 @@
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1033\f0\fs17 If TextBox1.Text <> "" Then\par
+            Dim FindString1, FindString2 As String\par
+            FindString1 = InputBox("Enter word(s) to find", "Search")\par
+            FindString2 = InStr(TextBox1.Text, FindString1)\par
+            If FindString2 Then\par
+                TextBox1.Focus()\par
+                TextBox1.SelectionStart = FindString2 - 1\par
+                TextBox1.SelectionLength = Len(FindString1)\par
+            Else\par
+                MsgBox("No text found")\par
+            End If\par
+        Else\par
+            MsgBox("Enter text first")\par
+        End If\par
+}
+

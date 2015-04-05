@@ -1,0 +1,11 @@
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\bin\Debug\WordPad.exe
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\bin\Debug\WordPad.pdb
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\bin\Debug\WordPad.xml
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.Resources.resources
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.vbproj.GenerateResource.Cache
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.exe
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.xml
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.pdb
+c:\users\vasily\documents\visual studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.WordPadForm.resources
+C:\Users\Vasily\Documents\Visual Studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.Form1.resources
+C:\Users\Vasily\Documents\Visual Studio 2010\Projects\WordPad\WordPad\obj\x86\Debug\WordPad.vbprojResolveAssemblyReference.cache
